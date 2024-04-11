@@ -28,17 +28,18 @@ header > h1 {
     padding-top: 50px;
     font-variant: small-caps;
     font-family: var(--fonte2);
-    font-size: 3.9vw;
+    font-size: 5vw;
 }
 
 header > p {
     padding-bottom: 50px;
+    font-size: 2vw;
 }
 
 section {
     padding: 10vh 0 10vh 30px;
     line-height: 2em;
-    font-size: 1.8vw;
+    font-size: 2vw;
 }
 section > p {
     margin-bottom: 20px;
